@@ -9,22 +9,22 @@ Além disso, também estou aprendendo sobre análise de dados e desenvolvimento 
 
 <h2>Conhecimentos em Front-end:</h2>
 <p align="left">
-- Estilização com responsividade usando Tailwindcss  
-- Padronização de componentes usando bibliotecas de UI, como Shadcn-ui  
-- Gerenciamento de rotas com Next.js  
-- Fetching de dados com Tanstack React Query  
-- Criação de formulários dinâmicos com React Hook Form  
-- Criação de Server Componentes com Next.js  
+- Estilização com responsividade usando Tailwindcss<br>
+- Padronização de componentes usando bibliotecas de UI, como Shadcn-ui<br>
+- Gerenciamento de rotas com Next.js<br>
+- Fetching de dados com Tanstack React Query<br>
+- Criação de formulários dinâmicos com React Hook Form<br>
+- Criação de Server Componentes com Next.js<br>
 </p>
 
 <h2>Conhecimentos em Back-end:</h2>
 <p align="left">
-- Criação de API's com Node.js usando Fastify  
-- Criação de API's com Python usando Flask  
-- Criação de Server Actions com Next.js  
+- Criação de API's com Node.js usando Fastify<br>
+- Criação de API's com Python usando Flask<br>
+- Criação de Server Actions com Next.js<br>
 </p>
 
 <h2>Outros:</h2>
 <p align="left">
-- Conhecimento Intermediário da Linguagem C  
+- Conhecimento Intermediário da Linguagem C<br>
 </p>
