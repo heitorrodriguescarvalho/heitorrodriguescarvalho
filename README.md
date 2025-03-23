@@ -20,11 +20,14 @@ Além disso, também estou aprendendo sobre análise de dados e desenvolvimento 
 <h2>Conhecimentos em Back-end:</h2>
 <p align="left">
 - Criação de API's com Node.js usando Fastify<br>
+- Validação de requests do Fastify usando Zod<br>
 - Criação de API's com Python usando Flask<br>
 - Criação de Server Actions com Next.js<br>
+- Integração de Banco de Dados Postgres com Node<br>
+- Integração de Banco de Dados Redis com Node<br>
 </p>
 
 <h2>Outros:</h2>
 <p align="left">
-- Conhecimento Intermediário da Linguagem C<br>
+- Conhecimento Básico em Linguagem C<br>
 </p>
