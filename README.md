@@ -33,7 +33,7 @@ Em paralelo, tenho aprendido os fundamentos da linguagem Java e suas aplicaçõe
 - Extração, chunking e vetorização de documentos com Docling<br>
 - Indexação vetorial usando Faiss<br>
 - Integração de modelos LLM com mecanismos de busca vetorial<br>
-- Implementação de sistemas <i>Retrieval-Augmented Generation<i> (RAG)<br>
+- Implementação de sistemas <i>Retrieval-Augmented Generation</i> (RAG)<br>
 </p>
 
 <h2>Outros:</h2>
